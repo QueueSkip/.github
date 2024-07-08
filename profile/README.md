@@ -1,6 +1,6 @@
 # QueueSkip
 
-![QueueSkip Logo](https://via.placeholder.com/150)
+![QueueSkip Logo](logo150.png)
 
 ---
 
@@ -95,7 +95,7 @@ Stay up-to-date with the latest news and updates from QueueSkip:
 
 ---
 
-![QueueSkip App Screenshot](https://via.placeholder.com/600x400)
+![QueueSkip App Screenshot](logo.png)
 
 ---
 
